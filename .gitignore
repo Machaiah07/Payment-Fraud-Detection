@@ -1,0 +1,11 @@
+Ignore large datasets and sensitive files
+*.csv
+*.pkl
+
+Ignore Python virtual environment files
+venv/
+internship_code/
+
+Ignore system files
+.DS_Store
+
